@@ -1,6 +1,4 @@
-# GuillotineMenu.swift 
-
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/GuillotineMenu.svg)](https://img.shields.io/cocoapods/v/GuillotineMenu.svg)
+# Guillotine Menu
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2018249/draft_06.gif)
 
