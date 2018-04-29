@@ -1,7 +1,12 @@
 # Guillotine Menu
 
-![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2018249/draft_06.gif)
-
+<p align="center">
+<img src="123.png" width=500/>
+</p>
+<h2>
+<p align="center">
+<img src="23.png" width=500/>
+</p>
 
 ## Requirements
 
